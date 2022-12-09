@@ -1,3 +1,26 @@
 body {
+  nav {
+  list-style-type: none;
+  background-color: lightpink;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
 
+li {
+  display: inline; 
+  padding: 20px;
+  float: right;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  letter-spacing: 5px;
+}
+
+li:hover {
+  background-color: gold;
+}
 }

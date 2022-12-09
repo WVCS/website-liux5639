@@ -1,4 +1,4 @@
-body {
+
   nav {
   list-style-type: none;
   background-color: lightpink;
@@ -23,4 +23,4 @@ a {
 li:hover {
   background-color: gold;
 }
-}
+

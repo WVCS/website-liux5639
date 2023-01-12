@@ -24,3 +24,12 @@ li:hover {
   background-color: gold;
 }
 
+img {
+  width: 250px;
+  border: dashed green 3px;
+}
+
+img:hover {
+  width: 500px; 
+  border: dashed gold 3px;
+}
